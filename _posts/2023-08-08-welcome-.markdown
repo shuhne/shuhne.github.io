@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Welcome to my new GitHub Page!"
+date:   2023-08-08 15:29:29 +0200
+---
+Hello! Welcome to my new GitHub page. My journey emphasizes that impactful automation requires understanding underlying business processes, not just technology. As I always say: "Before coding the solution, decode the process." If you're seeking guidance or consultation, feel free to reach out to me!

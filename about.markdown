@@ -7,7 +7,7 @@ permalink: /about/
 
 Greetings! I'm Sascha from Berlin, the tech hub of Germany, specializing in the art of automation.
 
-Born and raised in Germany, a nation often heralded worldwide for its efficiency, I've consistently found myself questioning the roots of such acclaim. Yet, juxtaposed against this esteemed reputation, my childhood was marked by an ever-aging public infrastructure: schools and whole districts lacking modern internet capabilities, and bureaucratic offices that frustratingly clung to outdated, analog methods. (Astonishingly, even in 2023, many German authorities still predominantly rely on FAX machines!) 
+Born and raised in Germany, a nation often heralded worldwide for its efficiency, I've consistently found myself questioning the roots of such acclaim. Yet, juxtaposed against this esteemed reputation, my childhood was marked by an ever-aging public infrastructure: schools and whole districts lacking modern internet capabilities, and bureaucratic offices that frustratingly clung to outdated, analog methods. Astonishingly, even in 2023, many German authorities still predominantly rely on FAX machines!
 
 A particularly reflective moment for me was during a wait at a government office, pondering whether this lag in digitization affected not just public agencies, but also the broader business landscape. If so, what proactive steps could be taken? These contemplations, fused with a childhood passion for cutting-edge technology, were pivotal in guiding my academic choice towards Business Informatics over a strictly technical Computer Science. The ambition to channel my frustrations into transformative solutions, bridging the evident divide between business and technology, remains a driving force in my journey.
 
